@@ -7,3 +7,5 @@ finished "getting started with multi-module workspaces"
 
 now lets go to practice and exercise what have learned until yet!
 (my grammer is upset like my vocabs)
+
+in the hello1.rar we learned how to use anothers modules
