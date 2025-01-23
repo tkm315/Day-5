@@ -37,5 +37,8 @@ use function log.SetFlag(0)
 
 use function log.Fatal(err)
 
+project5.4 : multiple-greetings
+--------------------------------
 
+how to say random hello to multiple people using map
 
