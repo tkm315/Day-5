@@ -67,3 +67,10 @@ $set PATH = %PATH% ; way
 go install
 
 now hello will be executed every where
+
+Git basics
+-------
+
+some basic keywords described here
+
+today finished
