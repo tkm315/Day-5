@@ -52,3 +52,18 @@ i didn't write code with my hand
 but we saw what is test in totally :)
 
 maybe at later i will come back to it
+
+convert it to application
+------------------------
+
+it converted to application like banana very nice :)
+
+$go build
+
+$go list -f {{.Target}}   ===>  way
+
+$set PATH = %PATH% ; way
+
+go install
+
+now hello will be executed every where
