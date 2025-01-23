@@ -42,3 +42,13 @@ project5.4 : multiple-greetings
 
 how to say random hello to multiple people using map
 
+project5.5 : baby test
+----------------------
+
+this is a baby test :)
+
+i didn't write code with my hand
+
+but we saw what is test in totally :)
+
+maybe at later i will come back to it
