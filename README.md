@@ -17,7 +17,10 @@ project : call_func_from_other_module.rar
 ----------------------------------------
 
 greetings>(go.mod & greetings.go)
+
 ------------------------greetings.go>Hello()
+
 hello       >(go.mod & hello.go)
+
 -------------------------hello.go will use Hello() which is in greetings.go 
 
