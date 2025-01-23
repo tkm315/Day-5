@@ -27,6 +27,13 @@ hello       >(go.mod & hello.go)
 project5.3 : error handling
 --------------------------
 
+error_handling
+
+import "error" and "log"
+
+use function log.SetPrefix("some thing : ") \n
+use function log.SetFlag(0)
+use function log.Fatal(err)
 
 
 
